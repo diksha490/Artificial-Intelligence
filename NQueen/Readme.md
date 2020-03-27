@@ -1,4 +1,4 @@
-# NQueen using genetic algorithm
+## NQueen using genetic algorithm
 
-## Nqueen problem is to place n queens on nxn chessboard so that no queen can attack each other
+ Nqueen problem is to place n queens on nxn chessboard so that no queen can attack each other
   
